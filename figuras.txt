@@ -1,0 +1,3 @@
+// cuadrado: perimetro es la suma de los lados, area es (lado * lado) (o lado al cuadrado)
+//triangulo: perimetro es la suma de los lados, area es (base * altura) / 2
+//curculo: perimetro (circunferencia) es igual a diametro (diametro = radio * 2) por pi, area es (radio * radio)(o radio al cuadrado) por pi.
